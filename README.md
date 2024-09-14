@@ -22,7 +22,7 @@ You can use the script directly from the command line or integrate it into your 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/password-generator.git            (enter your username instead of yourusername)
+git clone https://github.com/yourusername/password-generator.git            
 cd password-generator
 
 2. Run the script:
